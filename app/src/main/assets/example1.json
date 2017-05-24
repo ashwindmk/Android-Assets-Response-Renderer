@@ -1,0 +1,28 @@
+{
+  "persons" : [
+    {
+      "name" : "Ashwin",
+      "city" : "Mumbai",
+      "country" : "India",
+      "age" : 23
+    },
+    {
+      "name" : "Ashidha",
+      "city" : "Mumbai",
+      "country" : "India",
+      "age" : 18
+    },
+    {
+      "name" : "Shruti",
+      "city" : "Mumbai",
+      "country" : "India",
+      "age" : 23
+    },
+    {
+      "name" : "Neethu",
+      "city" : "Mumbai",
+      "country" : "India",
+      "age" : 23
+    }
+  ]
+}
